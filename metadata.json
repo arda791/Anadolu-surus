@@ -1,0 +1,6 @@
+{
+  "name": "Anadolu Sürüş",
+  "description": "Gerçekçi kokpit iç kamerası, yerli ve Türkiye yollarındaki araç filosu ve Boğaziçi otoyolu atmosferiyle 3D araba sürüş oyunu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
